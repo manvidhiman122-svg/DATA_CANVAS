@@ -449,7 +449,7 @@ For issues or questions:
 
 ## Authors
 
-**Your Name** - Initial work and development
+**MANVI DHIMAN** - Initial work and development
 
 ## Acknowledgments
 
@@ -458,6 +458,5 @@ For issues or questions:
 - Altair for beautiful visualizations
 - The open-source community
 
----
 
-**Ready to deploy?** Follow the Deployment Options section above to get your app live! 🚀
+
